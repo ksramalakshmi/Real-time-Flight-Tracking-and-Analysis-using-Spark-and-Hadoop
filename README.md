@@ -3,7 +3,7 @@ A repository containing an implementation of real-time flight data using AirLabs
 
 <h2>Dependencies and Versions</h2>
 
-Hadoop - 2.7.1
-Kafka - 2.13-2.7.0
-Python - 3.9.6
-Spark - 3.3.1
+Hadoop - 2.7.1<br />
+Kafka - 2.13-2.7.0<br />
+Python - 3.9.6<br />
+Spark - 3.3.1<br />
