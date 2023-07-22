@@ -1,0 +1,6 @@
+pyspark
+kafka-python
+pymysql
+json
+pandas
+numpy
